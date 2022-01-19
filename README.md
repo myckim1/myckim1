@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @myckim1
-- 👀 I’m interested in data science and others.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m @myckim1
+
+👀 I’m interested in: 
+- Data Science
+- ***Physics Simulations (Eventually would like to do Computational Fluid Mechanics)***
+
+🌱 I’m currently learning:
+- Python
+- MATLAB
+
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/myungchan-kim-667728213/)
 
 <!---
 myckim1/myckim1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
