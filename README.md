@@ -2,7 +2,7 @@
 
 👀 I’m interested in: 
 - Data Science
-- ***Physics Simulations (Eventually would like to do Computational Fluid Mechanics)***
+- Simulations
 
 🌱 I’m currently learning:
 - Python
